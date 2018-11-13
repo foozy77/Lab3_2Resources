@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab3.2 Resources</string>
+    <string name="show">at vise</string>
+    <string name="message">Hej Verden!</string>
+    <string name="greeting">" Hvordan har du det?"</string>
+</resources>
